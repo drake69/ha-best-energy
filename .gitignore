@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+venv/
+pyvenv.cfg
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+secrets/
+*.pem
+*.key
+
+# Testing
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Databases (runtime data, never commit)
+*.db
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Code reader inbox (transient)
+.code_reader/
+
+# Schema migration hash
+.schema_hash
+
+# {{ADDITIONAL_IGNORES}}
+
+
+# Secrets
+.env
+.env.*
