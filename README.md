@@ -101,8 +101,8 @@ the actions take the carrier as a parameter.
 
 ## Join the discussion
 
-- **Home Assistant Community forum**: the main thread, link coming soon.
-- **GitHub Discussions**: [RFC: scope and design](../../discussions), if you prefer GitHub.
+- **Home Assistant Community forum**: [the main thread](https://community.home-assistant.io/t/idea-manual-time-of-use-prices-for-any-energy-carrier-with-cheapest-slots-and-price-now-actions/1036158).
+- **GitHub Discussions**: [RFC: scope and design](https://github.com/drake69/ha-best-energy/discussions/1), if you prefer GitHub.
 
 Replies from both places will be collected on 2026-11-30, and the decision will be posted in both.
 
